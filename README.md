@@ -1,4 +1,4 @@
-# **Search 🔎 Engine **:
+# **Search 🔎 Engine**:
 
 Recreated the phenomenal technological development using the map and set abstractions
 to buid a document search engine that can find matching pages for a user's query with 
